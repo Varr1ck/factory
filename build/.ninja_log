@@ -1,0 +1,6 @@
+# ninja log v5
+13	1088	6958463386076210	CMakeFiles/factory.dir/src/main.cpp.obj	d9e741f3ce593fa9
+16	927	6958457707845947	CMakeFiles/factory.dir/src/SocketConnection.cpp.obj	4198fe067455f75
+1213	1373	6958463388894138	factory.exe	752c542022c924ba
+14	798	6958457706567271	CMakeFiles/factory.dir/src/Socket.cpp.obj	3c50234f15fc989
+16	1213	6958463387321193	CMakeFiles/factory.dir/src/Heartbeat.cpp.obj	8af1f2bacc45045c

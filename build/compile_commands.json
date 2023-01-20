@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/schwe/Documents/Repos/factory/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -IC:/Users/schwe/Documents/Repos/factory/include -g -o CMakeFiles\\factory.dir\\src\\main.cpp.obj -c C:\\Users\\schwe\\Documents\\Repos\\factory\\src\\main.cpp",
+  "file": "C:\\Users\\schwe\\Documents\\Repos\\factory\\src\\main.cpp"
+},
+{
+  "directory": "C:/Users/schwe/Documents/Repos/factory/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -IC:/Users/schwe/Documents/Repos/factory/include -g -o CMakeFiles\\factory.dir\\src\\Socket.cpp.obj -c C:\\Users\\schwe\\Documents\\Repos\\factory\\src\\Socket.cpp",
+  "file": "C:\\Users\\schwe\\Documents\\Repos\\factory\\src\\Socket.cpp"
+},
+{
+  "directory": "C:/Users/schwe/Documents/Repos/factory/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -IC:/Users/schwe/Documents/Repos/factory/include -g -o CMakeFiles\\factory.dir\\src\\SocketConnection.cpp.obj -c C:\\Users\\schwe\\Documents\\Repos\\factory\\src\\SocketConnection.cpp",
+  "file": "C:\\Users\\schwe\\Documents\\Repos\\factory\\src\\SocketConnection.cpp"
+},
+{
+  "directory": "C:/Users/schwe/Documents/Repos/factory/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -IC:/Users/schwe/Documents/Repos/factory/include -g -o CMakeFiles\\factory.dir\\src\\Heartbeat.cpp.obj -c C:\\Users\\schwe\\Documents\\Repos\\factory\\src\\Heartbeat.cpp",
+  "file": "C:\\Users\\schwe\\Documents\\Repos\\factory\\src\\Heartbeat.cpp"
+}
+]
